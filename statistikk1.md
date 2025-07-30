@@ -109,3 +109,5 @@ $$
 Altså:
 
 **\( n = \sum f \)** betyr at **n er summen av alle f-verdiene**, altså alle frekvensene.
+
+[→ Gå til divisjon](divisjon)
