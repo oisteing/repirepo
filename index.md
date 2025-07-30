@@ -12,5 +12,3 @@ Eksempel:
 - 10 + 15 = 25
 
 [→ Gå til divisjon](divisjon)
-
-[→ Gå til statistikk](statistikk1)
